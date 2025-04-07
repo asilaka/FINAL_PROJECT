@@ -69,11 +69,11 @@
   }
 }
 
-a {
+.blank {
   transition: scale 1.2s;
 }
 
-a {
+.blank {
   &:hover {
     cursor: pointer;
     scale: 1.2;

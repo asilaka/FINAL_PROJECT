@@ -38,16 +38,16 @@ const Dolar = () => {
               <p>Sed ut perspiciatis unde omnis iste natus error</p>
 
               <div className={s.image}>
-                <a href="https://www.twitch.tv/directory/following" target="_blank" rel="noopener noreferrer">
+                <a className={s.blank} href="https://www.twitch.tv/directory/following" target="_blank" rel="noopener noreferrer">
                   <img src="/Link.png" alt="Link 1" />
                 </a>
-                <a href="https://www.facebook.com/?locale=ru_RU" target="_blank" rel="noopener noreferrer">
+                <a className={s.blank} href="https://www.facebook.com/?locale=ru_RU" target="_blank" rel="noopener noreferrer">
                   <img src="/Link (1).png" alt="Link 2" />
                 </a>
-                <a href="https://www.instagram.com/asele.wv/" target="_blank" rel="noopener noreferrer">
+                <a className={s.blank} href="https://www.instagram.com/asele.wv/" target="_blank" rel="noopener noreferrer">
                   <img src="/Link (2).png" alt="Link 3" />
                 </a>
-                <a href="https://x.com/i/flow/login" target="_blank" rel="noopener noreferrer">
+                <a className={s.blank} href="https://x.com/i/flow/login" target="_blank" rel="noopener noreferrer">
                   <img src="/Link (3).png" alt="Link 4" />
                 </a>
               </div>

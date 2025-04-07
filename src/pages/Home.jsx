@@ -1,4 +1,4 @@
-import React from 'react';
+
 import Hero from '../components/Hero/Hero';
 import Total from '../components/Total/Total';
 import Footer from '../components/Footer/Footer';
